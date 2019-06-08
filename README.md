@@ -1137,4 +1137,4 @@ long long ago; /* in a galaxy far far away */
  */
 ```
 
-如果有更好地可以留言或者到[传送门](https://github.com/Blankj/awesome-comment)提issue，如果看到这能带给你快乐的话，那就点个稀饭吧，谢谢大佬们赏脸，愿所有的程序都永无Bug。
+如果看到这能带给你快乐的话，那就点个稀饭吧，谢谢大佬们赏脸，愿所有的程序都永无Bug。
